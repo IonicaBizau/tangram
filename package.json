@@ -1,0 +1,46 @@
+{
+  "name": "tangram.svg",
+  "version": "1.0.0",
+  "description": "The Tangram Square game in the browser.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/tangram.git"
+  },
+  "keywords": [
+    "tangram",
+    "svg",
+    "html",
+    "js",
+    "browser",
+    "game",
+    "puzzle"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/tangram/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/tangram#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "cli.js",
+    "index.js"
+  ],
+  "blah": {
+    "ex_img": "http://i.imgur.com/jQZV10U.png",
+    "ex_url": "https://ionicabizau.github.io/tangram/",
+    "title": "Tangram Puzzle"
+  }
+}
+
