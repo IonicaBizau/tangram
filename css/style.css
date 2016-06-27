@@ -1,0 +1,71 @@
+.graph {
+    z-index: 9;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.title {
+    position: fixed;
+    z-index: 10;
+    pointer-events: none;
+    color: #2D8BC9;
+    left: 55px;
+    border: 5px solid;
+    padding-bottom: 3px;
+    top: -5px;
+    padding-right: 20px;
+}
+
+.title h1 {
+    display: inline;
+    padding: 0px;
+    padding-left: 20px;
+}
+
+
+polygon {
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+.sidebar {
+    background: #3498DB;
+    position: fixed;
+    z-index: 999;
+}
+
+.sidebar span.octicon {
+    font-size: 40px;
+    color: #fff;
+    padding: 14px;
+}
+
+.sidebar-item {
+    text-align: center;
+    border-bottom: 5px solid #2d8bc9;
+    cursor: pointer;
+}
+
+.sidebar-item:hover {
+    background: #2d8bc9;
+}
+
+.made-with-heart a,
+.made-with-heart a:hover {
+    color: #2d8bc9;
+}
+
+.made-with-heart a:hover {
+    text-decoration: underline;
+}
