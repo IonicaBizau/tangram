@@ -1,9 +1,11 @@
 
-# tangram.svg
+# Tangram Puzzle
 
  [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/tangram.svg.svg)](https://www.npmjs.com/package/tangram.svg) [![Downloads](https://img.shields.io/npm/dt/tangram.svg.svg)](https://www.npmjs.com/package/tangram.svg) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > The Tangram Square game in the browser.
+
+Check out [my blog post about this](http://ionicabizau.net/blog/31-the-amazing-tangram-square).
 
 [![tangram.svg](http://i.imgur.com/jQZV10U.png)](https://ionicabizau.github.io/tangram/)
 
