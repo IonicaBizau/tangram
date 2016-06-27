@@ -40,7 +40,7 @@
   "blah": {
     "ex_img": "http://i.imgur.com/jQZV10U.png",
     "ex_url": "https://ionicabizau.github.io/tangram/",
-    "title": "Tangram Puzzle"
+    "title": "Tangram Puzzle",
+    "description": "Check out [my blog post about this](http://ionicabizau.net/blog/31-the-amazing-tangram-square)."
   }
 }
-
