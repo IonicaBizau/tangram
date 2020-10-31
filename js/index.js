@@ -65,6 +65,7 @@ window.addEventListener("load", function () {
     shapes[6].polygon("0," + size + " " + quart + "," + q3 + " " + q3 + "," + q3 + " " + half + "," + size).fill("#34495e");
 
     Crossy("polygon", "transformOrigin", "center");
+    Crossy("polygon", "transformBox", "fill-box");
     Crossy("polygon", "transition", "all 500 ease");
 
     shapes.forEach(function (c) {
