@@ -1,6 +1,6 @@
 {
   "name": "tangram.svg",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "The Tangram Square game in the browser.",
   "main": "lib/index.js",
   "scripts": {
@@ -36,6 +36,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
